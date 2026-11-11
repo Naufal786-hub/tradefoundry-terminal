@@ -1,0 +1,16 @@
+{
+  "name": "TradeFoundry Macro Terminal",
+  "short_name": "TradeFoundry",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070b10",
+  "theme_color": "#070b10",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
